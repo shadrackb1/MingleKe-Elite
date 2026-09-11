@@ -1,10 +1,8 @@
-﻿# MingleKe Elite
+# MingleKE Elite
 
-Project workspace.
+<img src="./assets/header.svg" width="100%" alt="MingleKE Elite" />
 
-## Stack
-
-HTML Â· CSS Â· JavaScript
+Premium tier for MingleKE.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ HTML Â· CSS Â· JavaScript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
